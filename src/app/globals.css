@@ -262,3 +262,12 @@ body {
   backdrop-filter: saturate(180%) blur(20px);
   -webkit-backdrop-filter: saturate(180%) blur(20px);
 }
+
+/* Download dropdown */
+.download-dropdown {
+  transform: translateX(-50%) translateY(-10px);
+}
+
+.group:hover .download-dropdown {
+  transform: translateX(-50%) translateY(0);
+}
