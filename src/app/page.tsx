@@ -113,7 +113,7 @@ export default function Home() {
           {/* Badge */}
           <div className="animate-fade-in-up inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/60 backdrop-blur-sm border border-black/5 mb-8">
             <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
-            <span className="text-sm font-medium text-[#0c0a09]/80">v1.1.7 已发布</span>
+            <span className="text-sm font-medium text-[#0c0a09]/80">v1.8.9 已发布</span>
           </div>
 
           {/* Main Title */}
@@ -154,7 +154,7 @@ export default function Home() {
                   <div className="px-3 py-2 text-xs text-[#0c0a09]/50 uppercase tracking-wider">选择平台下载</div>
 
                   <a
-                    href="https://ghfast.top/https://github.com/Everless321/dYm/releases/download/v1.1.7/dym-1.1.7.dmg"
+                    href="https://ghfast.top/https://github.com/Everless321/dYm/releases/download/v1.8.9/dym-1.8.9.dmg"
                     className="flex items-center gap-3 px-3 py-3 rounded-xl hover:bg-black/5 transition-colors"
                   >
                     <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-gray-700 to-gray-900 flex items-center justify-center">
@@ -172,7 +172,7 @@ export default function Home() {
                   </a>
 
                   <a
-                    href="https://ghfast.top/https://github.com/Everless321/dYm/releases/download/v1.1.7/dym-1.1.7-setup.exe"
+                    href="https://ghfast.top/https://github.com/Everless321/dYm/releases/download/v1.8.9/dym-1.8.9-setup.exe"
                     className="flex items-center gap-3 px-3 py-3 rounded-xl hover:bg-black/5 transition-colors"
                   >
                     <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-blue-500 to-cyan-500 flex items-center justify-center">
@@ -190,7 +190,7 @@ export default function Home() {
                   </a>
 
                   <a
-                    href="https://ghfast.top/https://github.com/Everless321/dYm/releases/download/v1.1.7/dym-1.1.7.AppImage"
+                    href="https://ghfast.top/https://github.com/Everless321/dYm/releases/download/v1.8.9/dym-1.8.9.AppImage"
                     className="flex items-center gap-3 px-3 py-3 rounded-xl hover:bg-black/5 transition-colors"
                   >
                     <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-orange-500 to-amber-500 flex items-center justify-center">
